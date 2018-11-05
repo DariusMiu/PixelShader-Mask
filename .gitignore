@@ -1,0 +1,8 @@
+# Visual Studio user files
+.vs
+
+# Monogame junk
+PixelShader Mask/bin
+PixelShader Mask/obj
+PixelShader Mask/x64
+PixelShader Mask/x86

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Dropbox/MonoGame/MaskTest/PixelShader Mask/Content/Mask.fx</SourceFile>
+  <SourceTime>2018-11-04T18:40:35.9574947-05:00</SourceTime>
+  <DestFile>D:/Dropbox/MonoGame/MaskTest/PixelShader Mask/content/bin/DesktopGL/Mask.xnb</DestFile>
+  <DestTime>2018-11-04T18:41:01.9828431-05:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
