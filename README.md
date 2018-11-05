@@ -1,11 +1,11 @@
 # XNA/Monogame PixelShader Mask  
-A simple 2D mask written for Monogame. This repository contains the [shader itself](../blob/master/PixelShader%20Mask/Content/Mask.fx), plus the full code for an example game to help people like me figure out how to use shaders and get it up and running quickly and easily.  
+A simple 2D mask written for Monogame. This repository contains the [shader itself](../master/PixelShader%20Mask/Content/Mask.fx), plus the full code for an example game to help people like me figure out how to use shaders and get it up and running quickly and easily.  
 
 ## Important Files  
-[The mask file itself](../blob/master/PixelShader%20Mask/Content/Mask.fx)  
+[The mask file itself](../master/PixelShader%20Mask/Content/Mask.fx)  
 
 ### Examples To Help You Figure Out How Shaders Work  
-[The main game script](../blob/master/PixelShader%20Mask/Game1.cs)  
+[The main game script](../master/PixelShader%20Mask/Game1.cs)  
 
 ## If You've Done This Kind Of Thing Before  
 The script works by first passing information about the mask, then passing information about each texture before it is drawn.  
